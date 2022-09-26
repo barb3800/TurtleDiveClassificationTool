@@ -2,7 +2,7 @@ name: "Sea Turtle Dive Classification Tool"
 navbar:
   title: "Sea Turtle Dive Classification Tool"
   left:
-    - text: "Check out our tool!"
+    - text: "Tool Info"
       href: toolinfo.html
 
 output:
