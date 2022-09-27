@@ -1,5 +1,4 @@
 ---
-title: "This is the webpage for our sea turtle dive classification tool! Click the Tool Info tab to learn more"
 output: html_document
 ---
 
@@ -7,3 +6,5 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 # git add -A to stage files
 ```
+
+This is the webpage for our sea turtle dive classification tool! Click the "Tool Info" tab to learn more.
