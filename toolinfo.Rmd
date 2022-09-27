@@ -1,4 +1,5 @@
 ---
+title: "Tool Info"
 output: html_document
 ---
 
@@ -6,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# **Tool From**: *Barbour et al (in review), "Clustering and classification of vertical movement profiles for ecological inference of behavior"*
+# **From**: *Barbour et al (in review), "Clustering and classification of vertical movement profiles for ecological inference of behavior"*
 
 <font size="4"> We developed a generalizable classification tool for sea turtle dive profiles, using an image classifier convolutional neural network (CNN) and 5 classes of known dive shapes for sea turtles (Hochscheid 2014). 
 
